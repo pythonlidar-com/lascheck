@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+dist/
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Agent/AI scratch — do not commit
+AGENTS.md
+CLAUDE.md
+.aider*
+.claude/
