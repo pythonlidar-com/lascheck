@@ -24,7 +24,7 @@ pip install lascheck
 Or from source:
 
 ```bash
-git clone https://github.com/passkeywebauthn/lascheck
+git clone https://github.com/pythonlidar-com/lascheck
 cd lascheck
 pip install -e .
 ```
